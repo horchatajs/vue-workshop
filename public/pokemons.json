@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "image": "bulbasaur-min.gif",
+    "types": ["poison", "grass"],
+    "abilities": ["chlorophyll", "overgrow"],
+    "experience": 64,
+    "height": 7,
+    "weight": 69
+  },
+  {
+    "id": 2,
+    "name": "ivysaur",
+    "image": "ivysaur-min.gif",
+    "types": ["poison", "grass"],
+    "abilities": ["chlorophyll", "overgrow"],
+    "experience": 142,
+    "height": 10,
+    "weight": 130
+  },
+  {
+    "id": 3,
+    "name": "venusaur",
+    "image": "venusaur-min.gif",
+    "types": ["poison", "grass"],
+    "abilities": ["chlorophyll", "overgrow"],
+    "experience": 236,
+    "height": 20,
+    "weight": 1000
+  },
+  {
+    "id": 4,
+    "name": "charmander",
+    "image": "charmander-min.gif",
+    "types": ["fire"],
+    "abilities": ["solar-power", "blaze"],
+    "experience": 62,
+    "height": 6,
+    "weight": 85
+  },
+  {
+    "id": 5,
+    "name": "charmeleon",
+    "image": "charmeleon-min.gif",
+    "types": ["fire"],
+    "abilities": ["solar-power", "blaze"],
+    "experience": 142,
+    "height": 11,
+    "weight": 190
+  },
+  {
+    "id": 6,
+    "name": "charizard",
+    "image": "charizard-min.gif",
+    "types": ["flying", "fire"],
+    "abilities": ["solar-power", "blaze"],
+    "experience": 240,
+    "height": 17,
+    "weight": 905
+  },
+  {
+    "id": 7,
+    "name": "squirtle",
+    "image": "squirtle-min.gif",
+    "types": ["water"],
+    "abilities": ["rain-dish", "torrent"],
+    "experience": 63,
+    "height": 5,
+    "weight": 90
+  },
+  {
+    "id": 8,
+    "name": "wartortle",
+    "image": "wartortle-min.gif",
+    "types": ["water"],
+    "abilities": ["rain-dish", "torrent"],
+    "experience": 142,
+    "height": 10,
+    "weight": 225
+  },
+  {
+    "id": 9,
+    "name": "blastoise",
+    "image": "blastoise-min.gif",
+    "types": ["water"],
+    "abilities": ["rain-dish", "torrent"],
+    "experience": 239,
+    "height": 16,
+    "weight": 855
+  },
+  {
+    "id": 11,
+    "name": "metapod",
+    "image": "metapod-min.gif",
+    "types": ["bug"],
+    "abilities": ["shed-skin"],
+    "experience": 72,
+    "height": 7,
+    "weight": 99
+  },
+  {
+    "id": 16,
+    "name": "pidgey",
+    "image": "pidgey-min.gif",
+    "types": ["flying", "normal"],
+    "abilities": ["big-pecks", "tangled-feet", "keen-eye"],
+    "experience": 50,
+    "height": 3,
+    "weight": 18
+  },
+  {
+    "id": 17,
+    "name": "pidgeotto",
+    "image": "pidgeotto-min.gif",
+    "types": ["flying", "normal"],
+    "abilities": ["big-pecks", "tangled-feet", "keen-eye"],
+    "experience": 122,
+    "height": 11,
+    "weight": 300
+  },
+  {
+    "id": 18,
+    "name": "pidgeot",
+    "image": "pidgeot-min.gif",
+    "types": ["flying", "normal"],
+    "abilities": ["big-pecks", "tangled-feet", "keen-eye"],
+    "experience": 216,
+    "height": 15,
+    "weight": 395
+  },
+  {
+    "id": 19,
+    "name": "rattata",
+    "image": "rattata-min.gif",
+    "types": ["normal"],
+    "abilities": ["hustle", "guts", "run-away"],
+    "experience": 51,
+    "height": 3,
+    "weight": 35
+  },
+  {
+    "id": 25,
+    "name": "pikachu",
+    "image": "pikachu-min.gif",
+    "types": ["electric"],
+    "abilities": ["lightning-rod", "static"],
+    "experience": 112,
+    "height": 4,
+    "weight": 60
+  },
+  {
+    "id": 26,
+    "name": "raichu",
+    "image": "raichu-min.gif",
+    "types": ["electric"],
+    "abilities": ["lightning-rod", "static"],
+    "experience": 218,
+    "height": 8,
+    "weight": 300
+  },
+  {
+    "id": 133,
+    "name": "eevee",
+    "image": "eevee-min.gif",
+    "types": ["normal"],
+    "abilities": ["anticipation", "adaptability", "run-away"],
+    "experience": 65,
+    "height": 3,
+    "weight": 65
+  },
+  {
+    "id": 150,
+    "name": "mewtwo",
+    "image": "mewtwo-min.gif",
+    "types": ["psychic"],
+    "abilities": ["unnerve", "pressure"],
+    "experience": 306,
+    "height": 20,
+    "weight": 1220
+  },
+  {
+    "id": 151,
+    "name": "mew",
+    "image": "mew-min.gif",
+    "types": ["psychic"],
+    "abilities": ["synchronize"],
+    "experience": 270,
+    "height": 4,
+    "weight": 40
+  }
+]
